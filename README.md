@@ -9,7 +9,10 @@ The programming language is required is:
 Framework:  
 **PySimpleGUI - To create a simple UI interface**  
 **Selenium - For web browser emulation**  
-**Pandas**
+**Pandas**  
+  
+GUI:  
+![picture alt](https://github.com/EricYoong/WebScraper/blob/main/Images/GUI.png "GUI for Web Scrapping Tools")  
 
 ## License  
 This project is created for educational purpose only.
