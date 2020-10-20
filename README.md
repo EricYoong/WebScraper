@@ -12,7 +12,7 @@ Framework:
 **Pandas**  
   
 GUI:  
-![picture alt](https://github.com/EricYoong/WebScraper/blob/main/Images/GUI.png, "GUI for Web Scrapping Tools")  
+![picture alt](https://github.com/EricYoong/WebScraper/blob/main/Images/GUI.png "Graphic Interface for Web Scrapping Tools")  
 
 ## License  
 This project is created for educational purpose only.
